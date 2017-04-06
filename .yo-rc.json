@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "devlee",
+      "authorEmail": "devlee@outlook.com",
+      "authorUrl": "devlee.io"
+    }
+  }
+}
