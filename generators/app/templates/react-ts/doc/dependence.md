@@ -77,6 +77,7 @@ loader for webpack
 > source-map-loader \
   awesome-typescript-loader \
   react-hot-loader \
+  json-loader \
   style-loader \
   css-loader \
   postcss-loader
